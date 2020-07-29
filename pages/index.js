@@ -118,7 +118,7 @@ export default function Home({ repoURL }) {
 			`}</style>
 
 <img className="profile" src="/CydiaIcon.png" alt="Profile picture" />
-			<h1>Dimitar Nestorov</h1>
+			<h1>taki</h1>
 
 			<a
 				href={`cydia://url/https://cydia.saurik.com/api/share#?source=${repoURL}`}
