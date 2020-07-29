@@ -116,6 +116,8 @@ export default function Home({ repoURL }) {
 					height: 30px;
 				}
 			`}</style>
+			<br/>
+			<br/>
 
 <img className="profile" src="/CydiaIcon.png" alt="Profile picture" />
 			<h1>taki</h1>
