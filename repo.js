@@ -2,7 +2,7 @@ exports.name = 'taki'
 exports.description = "taki's repository"
 
 exports.packages = [
-	'https://github.com/74k1/repo/releases/download/KindaStockpp-v0.1/com.taki.KindaStockpp_0.1_iphoneos-arm.deb',
+	// 'https://github.com/74k1/repo/releases/download/KindaStockpp-v0.1/com.taki.KindaStockpp_0.1_iphoneos-arm.deb',
 ]
 
 exports.icons = {
