@@ -1,8 +1,8 @@
 import Depiction from '../components/Depiction'
 
-export default function takiui() {
+export default function TakiUI() {
 	return (
-		<Depiction name="takiui" github="https://github.com/74k1/repo/releases/tag/TakiUI-v1.0/">
+		<Depiction name="TakiUI" github="https://github.com/74k1/repo/tree/TakiUI-v1.0">
 			taki UI theme. Very Microsoft.
 		</Depiction>
 	)
