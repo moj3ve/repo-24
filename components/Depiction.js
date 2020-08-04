@@ -48,9 +48,9 @@ export default function Depiction({ children, name, subtitle, github }) {
 			</Section>
 			<Links>
 				{[,
-					{ icon: '/assets/link-icons/Discord.png', label: 'Discord', href: 'https://discordapp.com/users/219683710348427274' },
-					{ icon: '/assets/link-icons/Twitter.png', label: 'Twitter', href: 'https://twitter.com/74k1_' },
-					{ icon: '/assets/link-icons/GitHub.png', label: 'GitHub', href: github },
+					{ icon: '/assets/link-icons/Discord.png', label: 'discord', href: 'https://discordapp.com/users/219683710348427274' },
+					{ icon: '/assets/link-icons/Twitter.png', label: 'twitter', href: 'https://twitter.com/74k1_' },
+					{ icon: '/assets/link-icons/GitHub.png', label: 'gitHub', href: github },
 				]}
 			</Links>
 		</Page>
