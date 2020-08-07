@@ -12,7 +12,7 @@ exports.packages = [
 
 exports.icons = {
 	Aether: 'assets/Aether/icon.png',
-	TakiUI: 'assets/TakiUI/icon.png',
+	TakiUI: 'assets/takiui/icon.png',
 	TakiStatusbar: 'assets/TakiStatusbar/icon.png',
 	KindaStockpp: 'assets/KindaStockpp/icon.png',
 }
